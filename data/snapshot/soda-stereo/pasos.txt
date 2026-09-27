@@ -1,0 +1,55 @@
+Titulo: Pasos
+Artista: soda-stereo
+Fuente: https://acordesweb.com/cancion/soda-stereo/pasos
+ID fuente: 35545
+Capturado: 2026-09-24T17:55:43.708085+00:00
+SHA-256: 6b6202ca0e1cdb8937dbde7d8e36c729ee1c290502978038cbc11cc0cec5937b
+
+C  Am         A#sus2
+... Suena el mar                               ACORDES EXTRANIOS
+C  Am   A#sus2              C
+... prefiero seguir tus pasos                  A#sus2 -> X13311
+  Am          A#sus2                           D5  ----> X57700
+... suena el mar                               E5  ----> X79900
+C Am    A#sus2       C G D# F
+... prefiero seguirte
+
+[C Am A#sus2 Am] x 4
+
+D#     F
+Tengo mal de alturas
+        D#         F
+y aqui vuelan pajaros de oro
+    G#              Gm
+si me maree es por devocion
+ G                      [C Am A#sus2 Am] x 2
+yo prefiero seguir tus pasos
+
+D#   F
+Es igual a un laser
+      D#         F
+la pasion actua por reflejo
+   G#             Gm
+de uno a dos, de dos a tres
+ G                       [D5 E5] x 2   [F G] x 2
+yo prefiero seguir tus pasos
+
+[D5 E5] x 2   [F G] x 2
+[C G D# F]
+
+G#
+suena el mar
+Gm
+suena el mar
+   G                         C Am A#sus2 Am
+y yo prefiero seguir tus pasos
+C  Am   A#sus2       Am     C
+... prefiero seguir tus pasos
+C  Am   A#sus2       Am     C
+... prefiero seguir tus pasos
+
+==========================================================
+Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
+(http://homepages.mty.itesm.mx/~al178675/tunes/)
+Transcripcion de Luis Torres
+([email protected])

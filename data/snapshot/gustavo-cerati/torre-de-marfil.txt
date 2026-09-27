@@ -1,0 +1,92 @@
+Titulo: Torre de Marfil
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/torre-de-marfil
+ID fuente: 18083
+Capturado: 2026-09-24T18:00:23.700438+00:00
+SHA-256: 51f797f355a8b41964b70f8a152d98aa4bd780cc8c300f81721d8f83ad01228d
+
+Torre de marfil
+
+INTRO CON A5 - D5 x4
+
+
+Am - D - Am* - G - F9 - Em* - Bm
+
+
+Am   Ammaj7       Am7*
+Oscilar sin hablar
+      G      F9
+un adiós, la sensación
+     Em*
+que no hay final
+         Bm         C*
+que el tiempo adelantó
+
+
+Am     D           Am*       G
+Sospechar de un resabio de luz
+          F9        Em*
+si hay esplendor seré un dragón
+     Bm
+de fuego azul
+
+
+[Am - Ammaj7  - Am7 - Am7add13- C - D - Dsus4]x2
+
+
+Am       Ammaj7      Am7*
+Un reemplazo de mí
+       G       F9
+no podrá hermosearte más
+   Em*         Bm       C*
+pero igual me mata no saber
+
+Am      D             Am*
+Dónde estás ni que hacer
+         G     F9
+hoy marqué tu número
+  Em*           Bm
+tan sólo para oir tu voz
+
+
+
+Dmaj7   Em7/-5           Dmaj7    Bbmaj7
+   Resonando en tu torre de marfil
+Dmaj7   Em7/-5           Dmaj7    Bbmaj7
+   Resonando en tu torre de marfil
+
+
+[Dm - Am]x4
+
+[Am - Ammaj7 - Am7 - Am7add13 - C - D - Dsus4]x2
+
+
+[Dmaj7  Em7/-5  Dmaj7  Bbmaj7] x2 + estribillo
+
+[Dmaj7  Em7/-5  Dmaj7  Bbmaj7] x2
+
+
+Cierra con: [Dmaj7 -  F   -   A   -  A#]
+
+            xxx333  xxx211  xxx655  xxx766
+                                        (8)
+
+
+
+(*) En el acorde debe sonar el SOL en cuerda 1.
+Ej.  Em:  022003
+
+
+
+
+Ammaj7:   x02110
+
+F9:       xx3213
+
+Am7add13: x04x10
+
+Dmaj7:    xx0222 o x57675
+
+Em7/-5:   xx2333 o x7676x
+
+Bbmaj7:   x13231 o 6x776x

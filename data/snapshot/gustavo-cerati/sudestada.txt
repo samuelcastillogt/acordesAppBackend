@@ -1,0 +1,64 @@
+Titulo: Sudestada
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/sudestada
+ID fuente: 18078
+Capturado: 2026-09-24T18:00:10.927150+00:00
+SHA-256: e02c316bae858f64d2e3ce1ce4268e1fa96e50cb27e20c3281e33c6bc8f1673e
+
+-----------------------------------------------------------------
+Separé la canción en dos versos, un coro, una parte instrumental,
+la intro y el final.
+-----------------------------------------------------------------
+INTRO: G (toda la intro)
+
+VERSO 1:
+  Am7    C7
+A ver, A ver
+      G
+Si aclara
+  Am7     C7
+Hable de vos
+        G
+De mis ansias
+Am7               C7         G
+   Del día que nació, en tu boca
+Am7               C7          G
+   Del nuevo temporal, que estalla
+
+CORO (x2):
+F - Am (F es el primer acorde que suena, se pasa rapidamente al otro)
+F - C
+G
+
+VERSO 2:
+ Am7    C7
+Afuera mis
+    G
+Entrañas
+ Am7     C7
+Adentro sigue
+     G
+En calma
+Am7                 C7
+   Trataba de explicar,
+G                        Em
+   Que ya no hay vuelta atrás
+
+ Am7     C7       G
+Hablé, hablé, de todo
+
+CORO (x2)
+
+INSTRUMENTAL:
+Am7 - G (x4)
+
+CORO (x4)
+
+FINAL: G (hasta que termina)
+
+-----------------------------------------------------------------
+Un gracias enorme a Cerati por sacar un nuevo disco, que si bien
+para mi no está a la altura de Bocanada, me puede porque lleva su
+firma en el estilo de las melodías, la eficaz simpleza y las
+letras (a pesar de que éstas son el aspecto más flaco del disco,
+si se las compara con las de Bocanada...)

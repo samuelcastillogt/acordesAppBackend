@@ -1,0 +1,100 @@
+Titulo: Signos
+Artista: soda-stereo
+Fuente: https://acordesweb.com/cancion/soda-stereo/signos
+ID fuente: 35554
+Capturado: 2026-09-24T17:56:17.539356+00:00
+SHA-256: 9d0fc024b52a300b0443ef55deaa4571fbc1865ee5910ddff3c27d5b2cf5b4ab
+
+INTRO [ Am Em G F  Am Em Gm F ]
+
+
+Am         Em  G
+No hay un modo
+           F           Am
+no hay un punto exacto
+        Em  Gm
+te doy todo
+           F         Am Em G F
+y siempre guardo algo
+
+
+Am         Em  G
+Si estas oculta
+         F           Am
+como sabre quien eres
+              Em  Gm
+me amas a obscuras
+           F              Am
+duermes envuelta en redes
+
+
+    D  Am7            D  C  Am
+Signos, mi parte insegura
+          D
+bajo una luna hostil
+ Am7    D     C  G  Am Em G F  Am Em Gm F
+signos, oh... oh
+
+
+Am      Em   G
+Mar de fondo
+       F             Am
+no caere en la trampa
+          Em   Gm
+llamame pronto
+         F            Am Em G F
+acertijos bajo el agua
+
+
+Am       Em   G
+Si algo cedes
+               F    Am
+calmare tu histeria
+          Em   Gm
+con los dientes
+      F             Am
+rasgare tus medias
+
+
+    D  Am7            D  C  Am
+Signos, mi parte insegura
+          D
+bajo una luna hostil
+ Am7    D     C  Am
+signos, oh... oh
+
+
+ D    Am7          D   C  Am
+signos, uniendo fisuras
+         D
+figuras sin definir
+ Em     D     C  G   Am
+signos, oh... oh...
+
+
+INTER [ Dm Fm Dm Am C ] (2)  Dm Fm Dm Am  Em
+
+
+Am    D Am7             D  C Am
+Signos, mi parte insegura
+          D
+bajo una luna hostil
+ Em     D     C  Am
+signos, oh... oh
+
+
+   D Am7          D  C Am
+signos, uniendo fisuras
+         D
+figuras sin definir
+ Em     D C
+signos, oh...
+
+
+[ Am D Am7 D C Am D Em D C ]
+
+==========================================================
+Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
+(http://homepages.mty.itesm.mx/~al178675/tunes/)
+Transcripcion de Luis Torres
+([email protected])

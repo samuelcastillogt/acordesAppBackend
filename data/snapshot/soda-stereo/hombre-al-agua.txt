@@ -1,0 +1,74 @@
+Titulo: Hombre al Agua
+Artista: soda-stereo
+Fuente: https://acordesweb.com/cancion/soda-stereo/hombre-al-agua
+ID fuente: 35524
+Capturado: 2026-09-24T17:54:44.103892+00:00
+SHA-256: 889e01a57a5d441a62bb5c291ca5e37e060fbcd2843de89af0020c6a3dab3061
+
+INTRO [ E Em A ] (2)  E
+ Em             A                  E
+Meses navegando, tierra a la vista
+ Em                 A         E
+todo volvera a ser como fue
+     Em              A                     E
+las luces en la costa son faros del pasado
+     Em             A         C
+todo volvera a ser como fue
+                           D A F#m A C
+Y cuando salto de cubierta
+                              A  [ E Em A ] (2)  E
+y me abandono a la corriente
+
+ Em                 A                   E
+Nuevas formas crecen son tan atractivas
+  Em                 A        C
+quiero descansar de todo ayer
+                           D A F#m A C
+y voy flotando por el rio
+                            A
+voy envuelto en la corriente
+
+E           G  A C
+Hombre al agua
+E              G  A C
+voces que se agitan
+E           G  A C
+hombre al agua
+E             G  A C  [ E Em A ] (2)   C
+barco a la deriva
+
+                          D A F#m A C
+y voy flotando por el rio
+                            A
+voy envuelto en la corriente
+
+E           G  A C
+Hombre al agua
+E              G  A C
+voces que se agitan
+E           G  A C
+hombre al agua
+E             G  A C
+barco a la deriva
+B5        A         E
+amanecio, abre los ojos
+     B5                     D           E
+me ire con estas olas no estes preocupada
+ F#m            E         G   A   E G A C
+todos gritaran hombre al agua
+E              G  A C   E G A C
+voces que se agitan
+E             G  A C
+barco a la deriva
+E              G  A C   E G A C
+voces que se agitan
+E             G  A C    E G A C
+barco a la deriva
+E              G  A C   E G A C
+voces que se agitan...
+
+==========================================================
+Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
+(http://homepages.mty.itesm.mx/~al178675/tunes/)
+Transcripcion de Luis Torres
+([email protected])

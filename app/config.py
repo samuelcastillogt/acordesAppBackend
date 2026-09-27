@@ -7,8 +7,7 @@ from pathlib import Path
 
 
 BACKEND_ROOT = Path(__file__).resolve().parents[1]
-PROJECT_ROOT = BACKEND_ROOT.parent
-DEFAULT_DATA_DIR = PROJECT_ROOT / "acordesSoda" / "scraped_songs"
+DEFAULT_DATA_DIR = BACKEND_ROOT / "data" / "snapshot"
 
 
 def _split_csv(value: str) -> list[str]:

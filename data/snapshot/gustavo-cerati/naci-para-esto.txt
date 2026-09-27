@@ -1,0 +1,80 @@
+Titulo: Naci para esto
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/naci-para-esto
+ID fuente: 18059
+Capturado: 2026-09-24T17:59:26.421606+00:00
+SHA-256: f3d582ce34fc1dc228477ec760296f0e65b9656c8dea743c83c9f6357e973592
+
+Nota: al Lam de la primera y tercera estrofa lo toca haciendo
+un efecto en la  primera cuerda, en el tercer traste;  el
+Mim de la cuarta estrofa tambien lo toca con efecto en la
+primera cuerda, en el segundo traste
+
+INTRO:    MI - LA - SOL - RE (repite 3 veces, y la ultima
+vez termina en un Re con efecto)
+
+
+       RE con efecto
+e----2--------2---2-------2---2-----------------------------
+B----3--------3---2-------2---0-----------------------------
+G--- 2--------2---2-------2---2-----------------------------
+D-----------------------------------------------------------
+A-----------------------------------------------------------
+E-----------------------------------------------------------
+
+RE    REsus4  LAm
+Mmmm....... pensándolo bien
+RE             REsus4       LAm
+sé que siempre supe el desenlace
+RE         REsus4    LAm
+me pasé la vida imaginándote
+RE            REsus4     LAm
+no es momento para ser cobarde
+
+
+SIm        LAm
+Pasaré mis manos
+    SIm           LAm
+sanaré toda llaga de distancia
+SIm                LAm             RE
+  lo terrible del mar es morir de sed
+
+
+LAm
+La lluvia cae
+RE                             LAm
+cambia los paisajes de humo y viento
+RE                       LAm
+borro el viejo mapa de catástrofes
+RE                        LAm
+Nuestros besos suenan verdaderos
+
+
+LA         MIm   LA                 MIm
+Aún te sorprende,     el ruido del mundo
+LA       MIm  LA             MIm     RE(con efecto)
+  Desaparece,     ya no hay vacío.
+
+
+Solo de guitarra (repite 3 veces)
+
+e---12--10--7--10--9--7--5--3--2--0---------
+B------------------------------------3------
+G-------------------------------------------
+D-------------------------------------------
+A-------------------------------------------
+E-------------------------------------------
+
+
+MI   LA          SOL    RE    MI
+Yo seguí a la estrella más voraz
+     LA     SOL       RE
+nunca me llevó tan lejos
+MI        LA     SOL   RE    MI
+    ¿Para qué creer en el azar?
+    LA   SOL RE    MI
+Yo nací para esto
+    LA   SOL RE    MI
+Yo nací para esto
+    LA   SOL RE    MI   RE(con efecto)
+Yo nací para esto

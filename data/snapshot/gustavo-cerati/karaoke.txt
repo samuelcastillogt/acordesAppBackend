@@ -1,0 +1,55 @@
+Titulo: Karaoke
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/karaoke
+ID fuente: 18049
+Capturado: 2026-09-24T17:58:58.004935+00:00
+SHA-256: 8935ba356bd0cc7c8476a82c9846057b953684406cc5299f77fec61a20602d58
+
+Acordes:
+
+  C#  D#  F#  A#m  Fm  F#?  G#
+1-4---6---2---1----8---2------4
+2-6---8---2---2----9---2------4
+3-6---8---3---3----10--3------5
+4-6---8---4---3----10--5------6
+5-4---6---4---1----8---4------6
+6-x---x---2---x--------2------4
+
+Intro: C#, D# (hartas veces)
+Verso:
+
+F#         A#m
+  Ya no me necesitas
+F#         A#m
+  Es lo mejor
+F#     A#m
+  Eras alguien a
+      Fm
+quien yo solía conocer
+F#        A#m
+  Fue muy simple
+F#     A#m
+  despegar
+F#          A#m
+  solo un corto tiempo
+         Fm
+y te buscaste un nuevo corazón
+F#             F#?
+  Ahora tienes, tu propio show
+         G#       D#        (se repite intro)
+como un rey vengador, vengador
+
+(verso)
+No te alcanza
+con improvisar
+el descaro baby
+es parte de la diversion
+
+F#           F#?
+  Ahora vamos, A ver tu show
+         G#           D#
+en el cuarto de un hotel (frente al mar)
+F#             F#?
+  Lee mis labios, Karaoke
+         G#        D#           (acaba con acordes de intro)
+como un rey convenceme, convenceme.

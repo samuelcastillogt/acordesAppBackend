@@ -25,10 +25,10 @@ cp .env.example .env
 Las variables de `.env` deben exportarse en la shell o cargarse desde el sistema
 de despliegue. La aplicación no lee secretos de archivos por sí sola.
 
-## Importar el snapshot privado
+## Importar el snapshot versionado
 
 ```bash
-python -m app.import_catalog --data-dir ../acordesSoda/scraped_songs
+python -m app.import_catalog --data-dir ./data/snapshot
 ```
 
 El importador:
@@ -41,6 +41,10 @@ El importador:
 - guarda solo metadata en la base de datos; el cuerpo permanece en el TXT fuente;
 - crea obras en estado `draft` y derechos `unknown`;
 - es idempotente por `(provider, external_id)`.
+
+El snapshot versionado vive en `data/snapshot/`, con el manifiesto y las carpetas
+de cada artista. `SODA_DATA_DIR` permite reemplazar esa ubicación cuando el
+despliegue use un volumen o almacenamiento diferente.
 
 ## Ejecutar
 

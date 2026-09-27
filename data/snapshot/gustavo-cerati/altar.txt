@@ -1,0 +1,74 @@
+Titulo: Altar
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/altar
+ID fuente: 18016
+Capturado: 2026-09-24T17:57:32.008828+00:00
+SHA-256: 080e2d4d6b41d2cdf7102c1c793e35b8a469dbc0c53f0b08c6b4a60b38a4c3aa
+
+Los muchos acordes que incluye la canción:
+  C9  Bb  C  Bb*  D#  G#  Gm  Dm  F
+1-x---1---3---6---6----4---3---5--1
+2-3---3---5---6---8----4---3---6--1
+3-0---3---5---7---8----5---3---7--2
+4-2---3---5---8---8----6---5---7--3
+5-3---1---3---8---6----6---5---5--3
+6-x---x---x---6---x----4---3---x--1
+
+  Dsus2   C#m  Cm  G  Am
+1--5------4----3---3--5
+2--5------5----4---3--5
+3--7------6----5---4--5
+4--7------6----5---5--7
+5--5------4----3---5--7
+6--x------x----x---3--5
+
+
+
+Intro: C9, Bb(muchas veces)
+C      Bb*
+Suena como el viento
+  D#  G#     Gm
+y decidi borrar el tiempo
+ Dm      F      (C9, Bb)x4
+soy mi propio altar
+C      Bb*
+Harto del sarcasmo
+D#        G#    Gm
+sube el precio del silencio
+Dm       F       (C9, Bb)x4
+me hace sentir bien
+
+Dsus2           C#m
+     Colmar tu corazon
+Cm                   G       Am, G, Am, G, Am, G, Am
+   ver si hay algo desierto
+(entra trompeta):
+(C9, Bb)x8
+(C, Bb*, D#, G#, Gm, F)
+
+
+Dsus2           C#m
+     Gozar, perderse mas
+Cm                        G,    Am, G, Am, G, Am
+   dejar que tiemble la tierra
+(silencio)            (C9, Bb)x4
+y toda frase hecha...
+
+C       Bb*
+Suena como el viento
+  D#   G#   Gm
+y decidi borrar el tiempo,
+Dm               F
+soy mi propio altar
+Em               G
+soy mi propio altar
+Dm               Am
+soy mi propio altar...
+
+empieza rap... solo voy a poner los acordes...
+Am hasta donde dice un ´fuerte resplandor´
+despues empiezacon  C y Bb* cuando dice ´claro que si..´
+
+Acaba con C9, Bb varias veces
+
+Cualquier duda o sugerencia, envienme un mail...

@@ -1,0 +1,72 @@
+Titulo: Sweet Sahumerio
+Artista: soda-stereo
+Fuente: https://acordesweb.com/cancion/soda-stereo/sweet-sahumerio
+ID fuente: 35559
+Capturado: 2026-09-24T17:56:32.779708+00:00
+SHA-256: 3483c417a656e04e605701e09cf505cd58043a44feb762e7cb1c9b3d4ff42570
+
+Intro
+
+e|------------------------|
+B|--13---17---13----19----|
+
+Riff 1
+    D              C    G
+e|--------------2------------3-2---|
+B|------3-----3--------------------|
+G|----2-----2-------------2--------|
+D|--0-----0--------2----5----------|
+A|-----------------3---------------|
+E|---------------------------------|
+
+Dsus2  Am7         Dsus2
+Ella juega en el sillon
+         Am7     Dsus2
+esta descalza
+     Am7        Dsus2
+algo sobrenatural
+       Am7  Dsus2   Riff 1 (x4)
+la desplaza
+
+Dsus2 Am7           Dsus2
+Tiene forma de espiral
+         Am7  Dsus2
+quien lo sabe
+      Am7       Dsus2
+aguas silenciosas
+       Am7   Dsus2  Riff 1 (x4)
+cubren su alma
+
+    Am7      Dsus2
+Poesia circular
+       Am7  Dsus2
+pez espada
+       Am7        Dsus2
+puedo verla de perfil
+   Am7            Dsus2  (Riff 1)
+andulandose en el mar
+
+(En Riff 1)
+
+Dsus2 Am7         Dsus2   Am7-Dsus2  Am7-Dsus2  Am7
+Como algas en el mar
+Dsus2 Am7         Dsus2   Am7-Dsus2  Am7-Dsus2  Am7
+Como algas en el mar
+
+
+========
+Acordes
+
+       E A D G B E
+Dsus2  x x 0 2 3 0
+Am7    x 0 2 0 1 0
+========
+
+Hola gente.
+Como vi que la transcripción existente de este tema
+no me cerraba completamente, lo modifiqué y agregué
+los dos riffs que hay en la intro y se repiten por todo el tema.
+Estoy abierto a escuchar opiniones y críticas
+sobre la tablatura. Por favor, cualquier cosa me escriben al mail.
+Saludos y escuchen ´Dynamo´, un discaso.
+Diego.

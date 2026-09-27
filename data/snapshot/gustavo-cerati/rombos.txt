@@ -1,0 +1,27 @@
+Titulo: Rombos
+Artista: gustavo-cerati
+Fuente: https://acordesweb.com/cancion/gustavo-cerati/rombos
+ID fuente: 18074
+Capturado: 2026-09-24T18:00:03.555111+00:00
+SHA-256: bdf6f827049ca1fc81059d437223f304f960bb1d646cf1554fbd739170b649e3
+
+[A C#m] x6
+[E D A] x3
+[A C#m] x4
+
+  A                  C#m         B     A
+Cuando lee y r¡e, a veces es la misma
+                   C#m    B
+pero mucho m s certera.
+
+A
+Prob la crema
+  C#m         B       A       Em    E-E-E
+y sabe la verdad y est ... serena.
+
+        D              A        [E-E-E D A] E-E-E
+En un cuarto lleno de rombos,
+     D                A
+un cuarto lleno de rombos.
+
+[E-E-E-E D A] [E-E-E-E D A-A-A] x7 E [E A] x6
