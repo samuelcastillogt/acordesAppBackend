@@ -1,3 +1,19 @@
+[project]
+name = "acordes-app-backend"
+version = "0.2.0"
+description = "API publica del catalogo Soda Stereo y Gustavo Cerati."
+requires-python = ">=3.12"
+dependencies = [
+    "email-validator>=2.2,<3.0",
+    "fastapi>=0.115,<1.0",
+    "psycopg[binary]>=3.2,<4.0",
+    "sqlalchemy>=2.0,<3.0",
+    "uvicorn[standard]>=0.34,<1.0",
+]
+
+[tool.vercel]
+entrypoint = "app.main:app"
+
 [tool.pytest.ini_options]
 pythonpath = ["."]
 testpaths = ["tests"]
